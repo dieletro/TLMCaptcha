@@ -35,3 +35,7 @@ para geração de códigos captcha via Delphi
     * **[email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=diegolacerdamenezes@gmail.com)**
     * **[instagram](https://www.instagram.com/lacerdamenezes/?hl=pt-br)**
 ---
+
+# Exemplos:
+
+![MyCaptcha](https://user-images.githubusercontent.com/11804577/83073128-49879a80-a046-11ea-99eb-697b7b92dca1.png)
