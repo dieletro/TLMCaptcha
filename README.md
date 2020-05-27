@@ -39,3 +39,11 @@ para geração de códigos captcha via Delphi
 # Exemplos:
 
 ![MyCaptcha](https://user-images.githubusercontent.com/11804577/83073128-49879a80-a046-11ea-99eb-697b7b92dca1.png)
+
+![MyCaptcha1](https://user-images.githubusercontent.com/11804577/83073329-a5522380-a046-11ea-87b0-c09c3e7a4851.png)
+
+![MyCaptcha2](https://user-images.githubusercontent.com/11804577/83073473-e1858400-a046-11ea-9537-2bd1e38820bf.png)
+
+![MyCaptcha3](https://user-images.githubusercontent.com/11804577/83073724-47720b80-a047-11ea-9389-2679e194018e.png)
+
+![MyCaptcha4](https://user-images.githubusercontent.com/11804577/83073952-b3547400-a047-11ea-8a2f-dfe185e28cce.png)
