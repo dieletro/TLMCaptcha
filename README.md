@@ -3,17 +3,6 @@
 Este Componente foi criando por [*Ruan Diego Lacerda Menezes*](https://github.com/dieletro/)
 para geração de códigos captcha via Delphi
 
-# Ajude a manter este projeto gratuito.
----
-**[*Doação via PAYPAL*](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2JPLRUD9S2RBY&item_name=Projeto+TInjectTelegram+para+Delphi&currency_code=BRL&source=url)**
-
-# Use QR CODE se preferir para fazer sua doação via PAYPAL.
-
-![QR CodeDoacoesTInjectTelegram](https://user-images.githubusercontent.com/11804577/82735377-ae19c100-9cf7-11ea-9e63-86266ecaa55f.png)
-
-**[*Doação via Mercado Pago*](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96811362-c8e28ed6-7ee2-4a89-a043-a18d5c1ec317)**
----
-
 # Grupos de Apoio aos desenvolvedores:
  * **[*Telegram*](https://t.me/TinjectTelegram)**
  * **[*Whatsapp*](https://chat.whatsapp.com/KyepdH5XYw9KnuLlobGFAE)**
@@ -22,7 +11,7 @@ para geração de códigos captcha via Delphi
 # TLMCaptcha RECURSOS disponíveis: 
 > - [X] Gerar código captcha de 1 a n números;
 > - [X] Editar nivel de dificuldade;
-> - [X] Usar Distorção de pixel com base no nivelde dificuldade, se ativada;
+> - [X] Usar Distorção de pixel com base no nivel de dificuldade, se ativada;
 > - [X] Usar cores multiplas;
 > - [X] Usar bordas nas entre as imagens dos caracteres gerados;  
 > - [X] Definir valor para intervalo de angulo de inclinação dos caracteres 
@@ -47,3 +36,14 @@ para geração de códigos captcha via Delphi
 ![MyCaptcha3](https://user-images.githubusercontent.com/11804577/83073724-47720b80-a047-11ea-9389-2679e194018e.png)
 
 ![MyCaptcha4](https://user-images.githubusercontent.com/11804577/83073952-b3547400-a047-11ea-8a2f-dfe185e28cce.png)
+
+# Ajude a manter este projeto gratuito.
+---
+**[*Doação via PAYPAL*](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2JPLRUD9S2RBY&item_name=Projeto+TInjectTelegram+para+Delphi&currency_code=BRL&source=url)**
+
+# Use QR CODE se preferir para fazer sua doação via PAYPAL.
+
+![QR CodeDoacoesTInjectTelegram](https://user-images.githubusercontent.com/11804577/82735377-ae19c100-9cf7-11ea-9e63-86266ecaa55f.png)
+
+**[*Doação via Mercado Pago*](https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96811362-c8e28ed6-7ee2-4a89-a043-a18d5c1ec317)**
+---
