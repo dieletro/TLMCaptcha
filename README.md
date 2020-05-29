@@ -13,7 +13,7 @@ para geração de códigos captcha via Delphi
 > - [X] Editar nivel de dificuldade;
 > - [X] Usar Distorção de pixel com base no nivel de dificuldade, se ativada;
 > - [X] Usar cores multiplas;
-> - [X] Usar bordas nas entre as imagens dos caracteres gerados;  
+> - [X] Usar bordas entre as imagens dos caracteres gerados;  
 > - [X] Definir valor para intervalo de angulo de inclinação dos caracteres 
 
 ---
